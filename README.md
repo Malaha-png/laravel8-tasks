@@ -1,6 +1,6 @@
-install 
+install </br>
 1 -> edit .env </br>
-2 -> npm i
-3 -> composer i
-4 -> php artisan migrate
-5 -> php artisan serve
+2 -> npm i </br>
+3 -> composer i </br>
+4 -> php artisan migrate </br>
+5 -> php artisan serve </br>
